@@ -1,4 +1,6 @@
 # Material
+
+![Material banner](cmda-sud-material-banner.jpg)
 > Main course material and curriculum.
 
 ## Introduction
