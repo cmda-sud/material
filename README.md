@@ -26,6 +26,13 @@ The course *Systematic UI design* teaches students to design User Interfaces in 
 * [Assignment 2: Interface and Design System](/assignments/assignment-2.md)
 * [Assignment 3: Interactive prototype](/assignments/assignment-3.md)
 
+## Slides
+* [Slides - Day 1](/slides/cmda-sud_slides_day-1.pdf)
+* [Slides - Day 2](/slides/cmda-sud_slides_day-2.pdf)
+* [Slides - Day 3](/slides/cmda-sud_slides_day-3.pdf)
+* [Slides - Day 4](/slides/cmda-sud_slides_day-4.pdf)
+* [Slides - Day 5](/slides/cmda-sud_slides_day-5.pdf)
+
 ## Conduct
 Staff and students of the Amsterdam University of Applied Sciences (Hogeschool van Amsterdam) are additionally bound by the [Regulation Undesirable Conduct](https://www.amsterdamuas.com/practical-matters/algemeen/hva-breed/juridische-zaken/legal-affairs/regulation-undesirable-conduct/regulation-undesirable-conduct.html#anker-3-complaints-authority).
 
