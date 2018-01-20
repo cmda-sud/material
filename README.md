@@ -22,9 +22,9 @@ The course *Systematic UI design* teaches students to design User Interfaces in 
 
 ## Assignments
 *For music platform 'Rythm' you design the following parts:*
-* Assignment 1: App Icon
-* Assignment 2: Interface and Design System
-* Assignment 3: Interactive prototype
+* [Assignment 1: App Icon](/assignments/assignment-1.md)
+* [Assignment 2: Interface and Design System](/assignments/assignment-2.md)
+* [Assignment 3: Interactive prototype](/assignments/assignment-3.md)
 
 ## Conduct
 Staff and students of the Amsterdam University of Applied Sciences (Hogeschool van Amsterdam) are additionally bound by the [Regulation Undesirable Conduct](https://www.amsterdamuas.com/practical-matters/algemeen/hva-breed/juridische-zaken/legal-affairs/regulation-undesirable-conduct/regulation-undesirable-conduct.html#anker-3-complaints-authority).
